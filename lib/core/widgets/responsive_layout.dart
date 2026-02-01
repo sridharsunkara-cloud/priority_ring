@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+/// [ResponsiveLayout] handles the switch between Mobile and Desktop/Web views.
+/// Breakpoint is set to 600px.
 class ResponsiveLayout extends StatelessWidget {
   final Widget mobileBody;
   final Widget desktopBody;
@@ -14,7 +16,6 @@ class ResponsiveLayout extends StatelessWidget {
   Widget build(BuildContext context) {
     return LayoutBuilder(
       builder: (context, constraints) {
-        // 600px is the standard 2026 breakpoint for Mobile vs Tablet/Web
         if (constraints.maxWidth < 600) {
           return mobileBody;
         } else {
