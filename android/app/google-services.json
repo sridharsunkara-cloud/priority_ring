@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742557914696",
+    "project_id": "priorityring-a8b8e",
+    "storage_bucket": "priorityring-a8b8e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742557914696:android:65d5a3b462acd86e5e2a7d",
+        "android_client_info": {
+          "package_name": "com.priorityring.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8THVhjNbHSARX3OpCskOw8wByBvS4pmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

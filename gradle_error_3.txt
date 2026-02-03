@@ -1,0 +1,139 @@
+> Task :gradle:checkKotlinGradlePluginConfigurationErrors
+> Task :gradle:compileKotlin UP-TO-DATE
+> Task :gradle:compileJava NO-SOURCE
+> Task :gradle:compileGroovy NO-SOURCE
+> Task :gradle:pluginDescriptors UP-TO-DATE
+> Task :gradle:processResources
+> Task :gradle:classes
+> Task :gradle:jar
+
+> Configure project :app
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by plugin 'dev.flutter.flutter-gradle-plugin'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by plugin 'dev.flutter.flutter-gradle-plugin'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by plugin 'dev.flutter.flutter-gradle-plugin'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by plugin 'dev.flutter.flutter-gradle-plugin'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by plugin 'dev.flutter.flutter-gradle-plugin'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by plugin 'dev.flutter.flutter-gradle-plugin'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by plugin 'dev.flutter.flutter-gradle-plugin'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by plugin 'dev.flutter.flutter-gradle-plugin'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by plugin 'dev.flutter.flutter-gradle-plugin'
+
+> Configure project :alarm
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\alarm-5.2.1\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\alarm-5.2.1\android\build.gradle'
+
+> Configure project :firebase_messaging
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-15.2.10\android\build.gradle'
+
+> Configure project :flutter_fgbg
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_fgbg-0.7.1\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_fgbg-0.7.1\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_fgbg-0.7.1\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo3' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_fgbg-0.7.1\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_fgbg-0.7.1\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_fgbg-0.7.1\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_fgbg-0.7.1\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_fgbg-0.7.1\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_fgbg-0.7.1\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_fgbg-0.7.1\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_fgbg-0.7.1\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_fgbg-0.7.1\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_fgbg-0.7.1\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_fgbg-0.7.1\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_fgbg-0.7.1\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_fgbg-0.7.1\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_fgbg-0.7.1\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_fgbg-0.7.1\android\build.gradle'
+
+> Configure project :flutter_local_notifications
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-20.0.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo3' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-20.0.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google4' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-20.0.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo4' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-20.0.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-20.0.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo3' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-20.0.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-20.0.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo3' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-20.0.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-20.0.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo3' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-20.0.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-20.0.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo3' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-20.0.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-20.0.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo3' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-20.0.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-20.0.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo3' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-20.0.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-20.0.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo3' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_local_notifications-20.0.0\android\build.gradle'
+
+> Configure project :permission_handler_android
+Build was configured to prefer settings repositories over project repositories but repository 'Google4' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo4' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google5' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo5' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google4' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo4' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google4' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo4' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google4' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo4' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google4' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo4' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google4' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo4' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google4' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo4' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google4' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo4' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\android\build.gradle'
+
+> Configure project :shared_preferences_android
+Build was configured to prefer settings repositories over project repositories but repository 'Google5' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.20\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo5' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.20\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google6' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.20\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo6' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.20\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google5' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.20\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo5' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.20\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google5' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.20\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo5' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.20\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google5' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.20\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo5' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.20\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google5' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.20\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo5' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.20\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google5' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.20\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo5' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.20\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google5' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.20\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo5' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.20\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google5' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.20\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo5' was added by build file 'C:\Users\madhu\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.20\android\build.gradle'
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Could not determine the dependencies of task ':app:packageDebug'.
+> Could not create task ':app:l8DexDesugarLibDebug'.
+   > coreLibraryDesugaring configuration contains no dependencies. If you intend to enable core library desugaring, please add dependencies to coreLibraryDesugaring configuration.
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 3s
+5 actionable tasks: 3 executed, 2 up-to-date
